@@ -118,12 +118,16 @@ input[type="button"], input[type="submit"], input[type="reset"] { -webkit-appear
 .apply .tab_tt ul li .icon3 { background-position: -140px 0; }
 .apply .tab_tt ul li .icon4 { background-position: -210px 0; }
 .apply .tab_tt ul li .icon5 { background-position: -280px 0; }
+.apply .tab_tt ul li .icon6 { background-position: -210px 0; }
+.apply .tab_tt ul li .icon7 { background-position: -280px 0; }
 .apply .tab_tt ul li.active { border-left: 3px solid #fff; color: #f36a18; }
 .apply .tab_tt ul li.active .icon1 { background-position: 0 -60px; }
 .apply .tab_tt ul li.active .icon2 { background-position: -70px -60px; }
 .apply .tab_tt ul li.active .icon3 { background-position: -140px -60px; }
 .apply .tab_tt ul li.active .icon4 { background-position: -210px -60px; }
 .apply .tab_tt ul li.active .icon5 { background-position: -280px -60px; }
+.apply .tab_tt ul li.active .icon6 { background-position: -210px -60px; }
+.apply .tab_tt ul li.active .icon7 { background-position: -280px -60px; }
 .apply .tab_content { float:left; position: relative; width: 1070px; overflow: hidden; }
 /*.apply .tab_content { position: relative; width: 1200px; margin:0 auto; overflow: hidden; }*/
 .apply .tab_content .box { width: 100%; }
