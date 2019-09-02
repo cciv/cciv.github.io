@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a78be3-043f-4b32-896b-30dab451b042" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/banner.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_20190902215958.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_201909022159581.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_201909022159582.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_201909022159583.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_201909022159584.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_20190902215959.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_201909022159591.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Banner/微信图片_201909022159592.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -15,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+            <state relative-caret-position="247">
+              <caret line="223" column="38" selection-start-line="223" selection-start-column="38" selection-end-line="223" selection-end-column="38" />
               <folding>
                 <element signature="e#19500#19506#0" expanded="true" />
                 <element signature="e#19506#19512#0" expanded="true" />
@@ -36,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1256">
-              <caret line="118" column="62" selection-start-line="118" selection-start-column="62" selection-end-line="118" selection-end-column="62" />
+            <state relative-caret-position="230">
+              <caret line="109" column="112" lean-forward="true" selection-start-line="109" selection-start-column="112" selection-end-line="109" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -58,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/base.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/base.css" />
       </list>
     </option>
   </component>
@@ -130,11 +140,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12560000" />
+    <option name="totallyTimeSpent" value="16013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1114" y="463" width="2208" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24976958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -162,17 +171,10 @@
     <entry file="file://$PROJECT_DIR$/en_index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1256">
-          <caret line="118" column="62" selection-start-line="118" selection-start-column="62" selection-end-line="118" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+        <state relative-caret-position="247">
+          <caret line="223" column="38" selection-start-line="223" selection-start-column="38" selection-end-line="223" selection-end-column="38" />
           <folding>
             <element signature="e#19500#19506#0" expanded="true" />
             <element signature="e#19506#19512#0" expanded="true" />
@@ -185,6 +187,13 @@
             <element signature="e#19548#19554#0" expanded="true" />
             <element signature="e#19554#19560#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="109" column="112" lean-forward="true" selection-start-line="109" selection-start-column="112" selection-end-line="109" selection-end-column="112" />
         </state>
       </provider>
     </entry>

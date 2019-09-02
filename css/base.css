@@ -52,9 +52,9 @@ input[type="button"], input[type="submit"], input[type="reset"] { -webkit-appear
 .intros ul li h3 { color: #262626; font-size: 18px; line-height: 40px; margin-bottom: 10px; }
 .intros ul li p { color: #adadad; font-size: 14px; line-height: 28px; }
 /*产品*/
-.pros { position:relative; width: 100%; height:685px; padding: 120px 0 0 0; background: #f5f5f5; }
+.pros { position:relative; width: 100%; height:685px; padding: 120px 0 120px 0; background: #f5f5f5; }
 /*.pros .pros_l { float: left; width: 345px; margin-right: 30px; padding-bottom: 120px; }*/
-.pros .pros_l { position:absolute; left:5%;top:120px; width: 32%;  padding-bottom: 120px; }
+.pros .pros_l { position:absolute; left:5%;top:120px; width: 32%;  padding: 60px 2%; }
 .pros .pros_l dl dt { margin-bottom: 30px; line-height: 40px; font-size: 46px; color: #222; }
 .pros .pros_l dl dd { color: #7d7d7d; font-size: 16px; line-height: 30px; }
 .pros .pros_l dl dd p { margin-bottom: 20px; text-indent:24px; }
@@ -97,7 +97,7 @@ input[type="button"], input[type="submit"], input[type="reset"] { -webkit-appear
 .about img { width: 100%; margin: 10px 0; }
 .about .index_tt { width: 100%; text-align: center; line-height: 40px; margin-bottom: 30px; color: #353535; font-size: 28px; }
 /*产品banner*/
-.pros_banner { position: relative; width: 80%; margin:0 auto; text-align:center; }
+.pros_banner { position: relative; width: 80%; margin:0 auto; text-align:center; background: #000000; }
 .pros_banner img { width: 100%; }
 .pros_banner .btn_on { position: absolute; left: 50%; top: 50%; z-index: 11; margin-left: -60px; margin-top: -60px; width: 120px; height: 120px; }
 .pros_banner .video { /*display: none;*/ position: absolute; left: 0; top: 0; z-index: 12; }
@@ -111,8 +111,8 @@ input[type="button"], input[type="submit"], input[type="reset"] { -webkit-appear
 .apply .item p { line-height: 28px; font-size: 14px; text-align: center; color: #a9a9a9; }
 .apply .tab_tt { float:left; width: 100px; margin-right:30px; }
 /*.apply .tab_tt { width: 100%; }*/
-.apply .tab_tt ul li { cursor: pointer; width: 100%; text-align: center; color: #a1a1a1; font-size: 16px; margin-bottom: 35px; cursor: pointer; }
-.apply .tab_tt ul li .icon { display: inline-block; width: 50px; height: 60px; background: url(../images/icon_apply.png) no-repeat; }
+.apply .tab_tt ul li { cursor: pointer; width: 100%; text-align: center; color: #a1a1a1; font-size: 16px; margin-bottom: 26px; cursor: pointer; }
+.apply .tab_tt ul li .icon { display: inline-block; width: 50px; height: 50px; background: url(../images/icon_apply.png) no-repeat; }
 .apply .tab_tt ul li .icon1 { background-position: 0 0; }
 .apply .tab_tt ul li .icon2 { background-position: -70px 0; }
 .apply .tab_tt ul li .icon3 { background-position: -140px 0; }
